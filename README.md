@@ -1,3 +1,6 @@
 # TreinamentoGit
 
 - Ladeia
+
+- MaiaTha
+- Reyals
